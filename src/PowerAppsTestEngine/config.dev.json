@@ -1,0 +1,6 @@
+{
+    "environmentId": "dc2af91e-508b-edbe-b6b9-9d976b469549",
+    "tenantId": "75a44fed-e28b-4a6a-a42b-f22d4f2d1a3e",
+    "testPlanFile": "../../samples/basicgallery/testPlan.fx.yaml",
+    "outputDirectory": "testresults/"
+  }
