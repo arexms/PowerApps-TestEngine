@@ -1,0 +1,87 @@
+
+
+---------------------------------------------------------------------------
+RUNNING TEST SUITE: Basic Gallery
+---------------------------------------------------------------------------
+
+Browser configuration: {"Browser":"Chromium","Device":null,"ScreenWidth":null,"ScreenHeight":null,"ConfigName":null}
+
+Browser setup finished
+
+Browser context created
+
+Test infrastructure setup finished
+
+Successfully navigated to target URL
+
+---------------------------------------------------------------------------
+RUNNING TEST CASE: Case1
+---------------------------------------------------------------------------
+
+------------------------------
+
+Executing Screenshot function.
+
+Successfully finished executing Screenshot function.
+
+------------------------------
+
+Executing Assert function.
+
+Successfully finished executing Assert function.
+
+------------------------------
+
+Executing Assert function.
+
+Successfully finished executing Assert function.
+
+------------------------------
+
+Executing Assert function.
+
+Successfully finished executing Assert function.
+
+------------------------------
+
+Executing Assert function.
+
+Successfully finished executing Assert function.
+
+------------------------------
+
+Executing SetProperty function.
+
+Successfully finished executing SetProperty function.
+
+------------------------------
+
+Executing SetProperty function.
+
+Successfully finished executing SetProperty function.
+
+------------------------------
+
+Executing Assert function.
+
+Successfully finished executing Assert function.
+
+------------------------------
+
+Executing Screenshot function.
+
+Successfully finished executing Screenshot function.
+
+---------------------------------------------------------------------------
+Basic Gallery TEST SUMMARY
+---------------------------------------------------------------------------
+
+Total cases: 1
+
+Cases passed: 1
+
+Cases skipped: 0
+
+Cases failed: 0
+
+

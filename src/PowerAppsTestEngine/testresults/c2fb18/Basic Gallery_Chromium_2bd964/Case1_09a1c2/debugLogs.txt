@@ -1,0 +1,58 @@
+---------------------------------------------------------------------------
+RUNNING TEST CASE: Case1
+---------------------------------------------------------------------------
+
+------------------------------
+
+Executing Screenshot function.
+
+Successfully finished executing Screenshot function.
+
+------------------------------
+
+Executing Assert function.
+
+Successfully finished executing Assert function.
+
+------------------------------
+
+Executing Assert function.
+
+Successfully finished executing Assert function.
+
+------------------------------
+
+Executing Assert function.
+
+Successfully finished executing Assert function.
+
+------------------------------
+
+Executing Assert function.
+
+Successfully finished executing Assert function.
+
+------------------------------
+
+Executing SetProperty function.
+
+Successfully finished executing SetProperty function.
+
+------------------------------
+
+Executing SetProperty function.
+
+Successfully finished executing SetProperty function.
+
+------------------------------
+
+Executing Assert function.
+
+Successfully finished executing Assert function.
+
+------------------------------
+
+Executing Screenshot function.
+
+Successfully finished executing Screenshot function.
+
