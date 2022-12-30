@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TestRun id="a043f5fa-4c42-49c3-a063-05cf0904a868" name="Power Fx Test Runner" runUser="User" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2022-12-30T10:01:45.3323659+00:00" queuing="2022-12-30T10:01:45.3331832+00:00" start="2022-12-30T10:01:45.3342514+00:00" finish="2022-12-30T10:02:25.9258324+00:00" />
+  <Results />
+  <TestDefinitions />
+  <TestEntries />
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Results Not in a List" id="19431567-8539-422a-85d7-44ee4e166bda" />
+    <TestList name="Basic Gallery - Chromium" id="b630f4d0-15d4-4902-92b5-1724725cdade" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="0" executed="0" passed="0" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+</TestRun>

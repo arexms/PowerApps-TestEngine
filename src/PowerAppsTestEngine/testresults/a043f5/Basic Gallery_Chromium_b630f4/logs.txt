@@ -1,0 +1,36 @@
+
+
+---------------------------------------------------------------------------
+RUNNING TEST SUITE: Basic Gallery
+---------------------------------------------------------------------------
+
+Browser configuration: {"Browser":"Chromium","Device":null,"ScreenWidth":null,"ScreenHeight":null,"ConfigName":null}
+
+Browser setup finished
+
+Browser context created
+
+Test infrastructure setup finished
+
+Successfully navigated to target URL
+
+[Error]: Timed out during login attempt. In order to determine why, it may be beneficial to view the output recording. Make sure that your login credentials are correct.
+
+[Error]: System.TimeoutException: The operation has timed out.
+   at Microsoft.PowerApps.TestEngine.TestInfra.PlaywrightTestInfraFunctions.HandleUserPasswordScreen(String selector, String value, String desiredUrl) in D:\a\1\s\src\Microsoft.PowerApps.TestEngine\TestInfra\PlaywrightTestInfraFunctions.cs:line 391
+   at Microsoft.PowerApps.TestEngine.Users.UserManager.LoginAsUserAsync(String desiredUrl) in D:\a\1\s\src\Microsoft.PowerApps.TestEngine\Users\UserManager.cs:line 96
+   at Microsoft.PowerApps.TestEngine.SingleTestRunner.RunTestAsync(String testRunId, String testRunDirectory, TestSuiteDefinition testSuiteDefinition, BrowserConfiguration browserConfig, String domain, String queryParams) in D:\a\1\s\src\Microsoft.PowerApps.TestEngine\SingleTestRunner.cs:line 105
+
+---------------------------------------------------------------------------
+Basic Gallery TEST SUMMARY
+---------------------------------------------------------------------------
+
+Total cases: 0
+
+Cases passed: 0
+
+Cases skipped: 0
+
+Cases failed: 0
+
+
